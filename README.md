@@ -1,6 +1,9 @@
 # TryHackMe-Learning-Path-From-Beginner-to-Expert
-**NOT MINE**
-©️ https://github.com/tharushkadinujaya05/TryHackMe-Learning-Path-From-Beginner-to-Expert/blob/main/README.md
+**𝓝𝓞𝓣 𝓜𝓘𝓝𝓔 💝**
+<br/>
+©️ https://github.com/tharushkadinujaya05/TryHackMe-Learning-Path-From-Beginner-to-Expert/blob/main/README.md<br/><br/>
+[**IF SOME ROOMS ARE PRIVATE OR UN-AVAILABLE SEARCH & READ THEIR WRITEUPS INSTEAD**]<br/>
+<br/>
 
 A comprehensive TryHackMe learning path with organized sections on Introductory Rooms, Linux Fundamentals, Networking, Forensics, CTF challenges, Scripting, and more. This repo provides a structured approach to mastering cybersecurity skills through TryHackMe.
 
